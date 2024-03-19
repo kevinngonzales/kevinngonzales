@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/kevinngonzales/kevinngonzales/main/happy%20birthday%20(Banner%20(Landscape)).jpg)
+![banner](kevinngpnzales-banner)
 
 With accessibility, inclusivity, and the innovation as important core values I resonate with, I know that through passion and creativity I can make a meaningful impact in the digital world. Additionally, going through many different paths of my professional life, I have become versatile and adaptable. Having worked in the customer-service space for a while, I believe that I have exceptional interpersonal skills and customer satisfaction is a top priority for me.
 
