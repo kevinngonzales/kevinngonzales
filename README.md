@@ -15,5 +15,8 @@ With accessibility, inclusivity, and the innovation as important core values I r
 The Knowledge House Web Development Fellowship:
 12-month job training program that prepares participants for the competitive tech industry. Learned industry tools that power popular apps, from creating beautiful, fast, and responsive interfaces with Meta’s ReactJS to creating powerful APIs with the Express framework.
 
+## Connect With Me!  
+![linkedin-icon](images/linkedin-icon.svg)
+[LinkedIn](www.linkedin.com/in/kevinngonzales)
 
 [Kevinn's github.io](https://kevinngonzales.github.io/)
