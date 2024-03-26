@@ -2,7 +2,7 @@
 <h1 align="center"> Hello👋 </h1>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinngonzales)
-[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kevinngonzales.github.io/)
+[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kevinngonzales.github.io/kevinn-react-portfolio/)
 
 </br>
 </br>
