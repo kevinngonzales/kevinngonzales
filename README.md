@@ -1,6 +1,6 @@
+![banner](images/kevinngonzales-banner.png)
 
-<h1 align="center"> Hello👋 </h1>
-
+</br>
 </br>
 
 <p align="center">
@@ -11,9 +11,7 @@
 </br>
 </br>
 
-![banner](images/kevinngonzales-banner.png)
-
-
+<h1 align="center"> Hi there👋 It's a pleasure to meet you. </h1>
 
 </br>
 </br>
