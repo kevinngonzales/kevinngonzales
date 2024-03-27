@@ -1,8 +1,9 @@
 
 <h1 align="center"> Hello👋 </h1>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinngonzales)
-[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kevinn-react-portfolio.onrender.com)
+
+<a href="https://kevinn-react-portfolio.onrender.com" target="blank"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+<a href="https://www.linkedin.com/in/kevinngonzales" target="blank"><img target="_blank" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a>
 
 
 </br>
